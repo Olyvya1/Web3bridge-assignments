@@ -57,6 +57,7 @@ font-family: fontone;
     font-family: fontone;
     border: none;
     margin-top: 40px;
+    box-shadow: 12px 12px 10px rgba(77, 77, 206, 0.363);
 }
 .end{
     color: grey;
